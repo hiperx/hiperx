@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Site under construction. Prepare portfolio. 
+
+See my last projekt : https://github.com/hiperx/eventappv1
 <!--
 **hiperx/hiperx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
